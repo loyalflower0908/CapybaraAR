@@ -50,7 +50,7 @@ Visual Studio
 
 &nbsp;
 
-## 📱 스크린샷 📱
+## 🖼️ 스크린샷 🖼️
 
 | <img src="https://github.com/loyalflower0908/CapybaraAR/blob/master/AR_Screenshot/Start.jpg" width="200">   | <img src="https://github.com/loyalflower0908/CapybaraAR/blob/master/AR_Screenshot/ScanSurface.jpg" width="200"> | <img src="https://github.com/loyalflower0908/CapybaraAR/blob/master/AR_Screenshot/Pick%20Model.jpg" width="200"> |  
 | :----------------------------------------------:  | :----------------------------------------------: | :----------------------------------------------: |  
