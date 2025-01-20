@@ -56,7 +56,7 @@ Visual Studio
 | :----------------------------------------------:  | :----------------------------------------------: | :----------------------------------------------: |  
 |                     시작 화면                     |                   평면 분석 기능                  |                 불러올 모델 선택                  |  
 
-| <img src="https://github.com/loyalflower0908/CapybaraAR/blob/master/AR_Screenshot/Scale.jpg" width="200"> | <img src="https://github.com/loyalflower0908/CapybaraAR/blob/master/AR_Screenshot/Rotate.jpg" width="200"> | <img src="https://github.com/loyalflower0908/CapybaraAR/blob/master/AR_Screenshot/Result.png" width="200"> |
+| <img src="https://github.com/loyalflower0908/CapybaraAR/blob/master/AR_Screenshot/Scale.png" width="200"> | <img src="https://github.com/loyalflower0908/CapybaraAR/blob/master/AR_Screenshot/Rotate.jpg" width="200"> | <img src="https://github.com/loyalflower0908/CapybaraAR/blob/master/AR_Screenshot/Result.png" width="200"> |
  | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
 |                 모델 크기 변경 가능               |                 모델 회전 가능                    |                  AR 모델 적용 예시               | 
 
